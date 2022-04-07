@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895456869618",
+    "project_id": "picgo-5ceae",
+    "storage_bucket": "picgo-5ceae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895456869618:android:6de812cdd37609609b646b",
+        "android_client_info": {
+          "package_name": "com.example.picgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895456869618-d8aohgkm8cc8gp8r3do6nco1onk3t3o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSZHvxpabSGwMqMVvG5XoIjloBAkRBB-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895456869618-d8aohgkm8cc8gp8r3do6nco1onk3t3o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
